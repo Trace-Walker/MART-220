@@ -1,0 +1,1 @@
+I've tried to get the images to appear but everytime I check the console errors show up saying 'URL scheme "file" is not supported. I've tried other methods to get them to appear but they do not. There are other errors as well for each image, there seem to be two errors per image. Just thought I would type this up requick as to why they are still not showing.
